@@ -1,0 +1,22 @@
+body {
+    background-color: #111111;
+    color: #dddddd;
+    font-family: Roboto, sans-serif;
+    font-size: 1.3em;
+}
+
+#page {
+    padding: 20px;
+}
+
+a {
+    color: #aaaaaa;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+li {
+    padding: 7px 0px 7px 0px;
+}
